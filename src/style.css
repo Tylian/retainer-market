@@ -1,0 +1,17 @@
+.item-list__header__retainer--name {
+  width: 60%;
+}
+.item-list__header__retainer--quantity {
+  width: 19.5%;
+}
+.item-list__name {
+  width: calc(60% - 48px);
+}
+.item-list__number {
+  width: 19.5%;
+}
+.item-list__number img {
+  vertical-align: middle;
+  height: 1.5em;
+  width: auto;
+}
